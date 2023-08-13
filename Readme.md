@@ -53,7 +53,7 @@ IMAGES
 
 ![Systeme Discord](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/55e8cb08-bd53-4835-bac6-8fedaa6bcc42)
 
-![Systeme Info](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/938f5a59-bd67-48b8-a6d4-6df5dfcaf4d6)
+![System Info](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/164d515e-ced1-46a3-823e-bff82023e912)
 
 ![Desktop Screenshot](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/ea41a8bc-fb54-4069-8a8a-dfe8ccd3cf96)
 
