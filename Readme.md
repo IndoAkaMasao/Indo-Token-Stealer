@@ -32,7 +32,7 @@
   * System
   * Network IP
   * Wifi
-  * Mac  * Hwid
+  * Mac Hwid
   * PC Specs
   * Screenshot
 
