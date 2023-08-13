@@ -58,5 +58,4 @@ IMAGES
 
 ![Desktop Screenshot](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/ea41a8bc-fb54-4069-8a8a-dfe8ccd3cf96)
 
-
 ![Footer](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/339dec5b-27ba-47fe-915e-eaa0f3ff1f81)
