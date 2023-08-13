@@ -1,6 +1,7 @@
 ![Indo Footer](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/30387bf9-912a-4858-9044-a5901287cb5e)
 
 * FEATURES
+
 * DISCORD INFO
 
   * Token
