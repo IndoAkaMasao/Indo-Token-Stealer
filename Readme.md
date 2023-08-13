@@ -1,6 +1,6 @@
-https://media.discordapp.net/attachments/1133376321033093184/1140302220571725935/Indo_Footer.png?width=1200&height=348
+![Indo Footer](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/30387bf9-912a-4858-9044-a5901287cb5e)
 
-Features
+FEATURES
 Discord Info
 
 Token
@@ -46,15 +46,19 @@ Bypass Token Protector
 File Pumper
 Self Destruct
 
-Images
+IMAGES
 
 Pc Info
-https://media.discordapp.net/attachments/1133376321033093184/1140305851249336380/Systeme_Info.png
+![Systeme Discord](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/55e8cb08-bd53-4835-bac6-8fedaa6bcc42)
 
 Discord Info
-https://media.discordapp.net/attachments/1133376321033093184/1140305842072207481/Systeme_Discord.png
+![Systeme Info](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/938f5a59-bd67-48b8-a6d4-6df5dfcaf4d6)
 
 Desktop Screenshot
-https://media.discordapp.net/attachments/1133376321033093184/1140306053486088213/Desktop_Screenshot.png
+![Desktop Screenshot](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/ea41a8bc-fb54-4069-8a8a-dfe8ccd3cf96)
+
+
+![Footer](https://github.com/IndoAkaMasao/Indo-Token-Stealer/assets/140526284/339dec5b-27ba-47fe-915e-eaa0f3ff1f81)
+
 
 
